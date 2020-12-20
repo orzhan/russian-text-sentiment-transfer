@@ -1,0 +1,8 @@
+simpletransformers
+fastText
+torch
+numpy
+pandas
+sklearn
+scipy
+nltk
