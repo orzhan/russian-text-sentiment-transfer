@@ -5,6 +5,7 @@ Unsupervised sentiment transfer is changing the sentiment of the given text whil
 # Datasets
 
 RuReviews: An Automatically Annotated Sentiment Analysis Dataset for Product Reviews in Russian: https://github.com/sismetanin/rureviews
+
 Toxic Russian Comments: https://www.kaggle.com/alexandersemiletov/toxic-russian-comments
 
 # Training
@@ -13,7 +14,7 @@ Edit settings.py (`data_source` may be 'toxic' or 'rureviews', `classification_m
 
 Run `python sentiment_transfer.py`
 
-# Inference
+# Model
 
 You can use this [colab notebook](https://colab.research.google.com/drive/127Hjdr7AHrbxYQk3M3K0E5k4uY9qC4xe?usp=sharing) to run the models for Toxic dataset.
 
