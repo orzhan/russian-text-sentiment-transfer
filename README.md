@@ -15,7 +15,7 @@ Run `python sentiment_transfer.py`
 
 # Inference
 
-Fine-tuned models are available on [https://huggingface.co/](https://huggingface.co/orzhan). You can use this [colab notebook](https://www.google.com) to run them.
+You can use this [colab notebook](https://colab.research.google.com/drive/127Hjdr7AHrbxYQk3M3K0E5k4uY9qC4xe?usp=sharing) to run the models for Toxic dataset.
 
 # Examples for RuReviews dataset
 
